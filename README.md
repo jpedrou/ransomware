@@ -1,4 +1,7 @@
 # ransomware
+
+<p align="center"><img src="images/ransomware-representation.png"/></p>
+
  Project developed with the goal to expose how simple lines of code can cause muach damage to a common user or an entire company by using what is called **Ransomware**, a way to encrypt files with a certain algorithm and require for money to the recovery of those data.
 
  ## How it Works
